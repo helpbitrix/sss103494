@@ -2,7 +2,7 @@
 // @name Тинькофф тестирование стратегии
 // @namespace http://tampermonkey.net/
 // @version 1.4
-// @description Отслеживает горизонтальные линии на TradingView и сохраняет уникальные данные в localStorage с историей111
+// @description Отслеживает горизонтальные линии на TradingView и сохраняет уникальные данные в localStorage с историей1111111111111111111111 ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей11111111111111111111111ые в localStorage с историей111111111111111111111111
 // @match https://ru.tradingview.com/*
 // @grant none
 // ==/UserScript==
